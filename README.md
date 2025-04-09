@@ -1,4 +1,5 @@
 # Parking-lot-Managment-system
+(PLEASE DO NOT COPY WITHOUT PERMISSION, LICENCE ARE DEPLOYED)
 # 🚗 Yash Parking Lot Management System 🚗
 ![Screenshot 2025-04-09 230006](https://github.com/user-attachments/assets/bf39ca97-2c50-46bb-ba56-c2cb233d770e)
 ![Screenshot 2025-04-09 230015](https://github.com/user-attachments/assets/230adb2f-95a9-4f7b-b6b7-ccdc67dd81f4)
